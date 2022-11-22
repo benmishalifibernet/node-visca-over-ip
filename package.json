@@ -1,12 +1,12 @@
 {
-	"name": "visca-over-ip",
+	"name": "visca-over-ip-fibernet",
 	"version": "1.0.15",
-	"description": "A visca-over-ip implementation for NodeJS",
+	"description": "A visca-over-ip implementation for NodeJS for Fibernet",
 	"main": "dist/ViscaOverIP.js",
 	"types": "dist/ViscaOverIP.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MorphixProductions/node-visca-over-ip"
+		"url": "https://github.com/benmishalifibernet/node-visca-over-ip"
 	},
 	"scripts": {
 		"publish-version": "npm version patch && npm publish --access public"
@@ -29,7 +29,7 @@
 		"zoom"
 	],
 	"bugs": {
-		"url": "https://github.com/MorphixProductions/node-visca-over-ip/issues"
+		"url": "https://github.com/benmishalifibernet/node-visca-over-ip/issues"
 	},
-	"homepage": "https://github.com/MorphixProductions/node-visca-over-ip#readme"
+	"homepage": "https://github.com/benmishalifibernet/node-visca-over-ip#readme"
 }
